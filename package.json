@@ -1,6 +1,6 @@
 {
   "name": "@sbsoftworks/gittix-common",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shared code between different services of Gittix ticket store with microservices",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
